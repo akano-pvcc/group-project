@@ -1,6 +1,6 @@
-// added by second account
+# added by second account
 
 
-// can be edited by first account
+# can be edited by first account
 
-// new line!
+# new line!
